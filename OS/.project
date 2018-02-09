@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>OS</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Format.class</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/OS-Project-master-2/Format.class</locationURI>
+		</link>
+		<link>
+			<name>src/Job.class</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/OS-Project-master-2/Job.class</locationURI>
+		</link>
+		<link>
+			<name>src/jobtype.class</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/OS-Project-master-2/jobtype.class</locationURI>
+		</link>
+		<link>
+			<name>src/sos.class</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/OS-Project-master-2/sos.class</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
